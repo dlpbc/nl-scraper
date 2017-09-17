@@ -22,7 +22,7 @@ python scraper.py -h (for help)
 ## Default configuration
 * start-page-number: 0
 * end-page-number: 5
-* output-file: nl-scrapper-<current-time-stamp>.txt
+* output-file: nl-scraper-<current-time-stamp>.txt
 
 ## Note
 Implemented and tested in **Python 3**
