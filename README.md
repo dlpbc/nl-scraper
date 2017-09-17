@@ -1,5 +1,5 @@
-# nl-scrapper
-Web scrapper for **Nairaland** featured links (http://www.nairaland.com/links). Scrape multiple pages of featured links in Nairaland.
+# nl-scraper
+Web scraper for **Nairaland** featured links (http://www.nairaland.com/links). Scrape multiple pages of featured links in Nairaland.
 
 ## Dependencies (External python package)
 1. lxml - xml processing library (parser)
@@ -8,15 +8,15 @@ Web scrapper for **Nairaland** featured links (http://www.nairaland.com/links). 
 
 ## Usage
 ```
-python scrapper.py   (default configuration)
+python scraper.py   (default configuration)
 
 OR
 
-python scrapper.py -s <start-page-number> -e <end-page-number> [-o <output-file>]
+python scraper.py -s <start-page-number> -e <end-page-number> [-o <output-file>]
 
 OR
 
-python scrapper.py -h (for help)
+python scraper.py -h (for help)
 ```
 
 ## Default configuration
